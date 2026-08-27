@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pasha 👋
 
-<!--
-**Pasha17711/Pasha17711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **UC San Diego** and Founder & Full-Stack Engineer at **Uthaan**, building software used in real-world environments.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Building **Uthaan**, a school-management platform serving **1,000+ users**
+- Developing full-stack applications with **Next.js, TypeScript, PostgreSQL, and Supabase**
+- Studying algorithms, systems, and software engineering at UC San Diego
+- Building and deploying production web products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+`Python` `C++` `Java` `TypeScript` `JavaScript` `React` `Next.js` `PostgreSQL` `Supabase` `Git`
+
+### Featured Work
+**HPS Lahore** — Production school website  
+https://hpslahore.com
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/asad-pasha-chaudhry-541899335/)
