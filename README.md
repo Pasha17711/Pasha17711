@@ -1,19 +1,20 @@
-# Hi, I'm Pasha 👋
+# Asad Pasha Chaudhry
 
-Computer Science student at **UC San Diego** and Founder & Full-Stack Engineer at **Uthaan**, building software used in real-world environments.
+Computer Science student at **UC San Diego** building production software, full-stack systems, and developer-focused products.
 
-### What I'm working on
-- Building **Uthaan**, a school-management platform serving **1,000+ users**
-- Developing full-stack applications with **Next.js, TypeScript, PostgreSQL, and Supabase**
-- Studying algorithms, systems, and software engineering at UC San Diego
-- Building and deploying production web products
+## Portfolio
+**[asad-pasha-portfolio.vercel.app](https://asad-pasha-portfolio.vercel.app)**
 
-### Tech
-`Python` `C++` `Java` `TypeScript` `JavaScript` `React` `Next.js` `PostgreSQL` `Supabase` `Git`
+## Featured work
+- **Uthaan** — school-management platform serving **1,000+ users**
+- **HPS Lahore** — production school website
+- **JAFA** — production web project
+- **C++ systems projects** — Huffman compression and graph analysis
 
-### Featured Work
-**HPS Lahore** — Production school website  
-https://hpslahore.com
+## Tech
+`Java` `C++` `Python` `C` `TypeScript` `JavaScript` `React` `Next.js` `PostgreSQL` `Supabase` `Git`
 
-### Connect
-[LinkedIn](https://www.linkedin.com/in/asad-pasha-chaudhry-541899335/)
+## Links
+- [Portfolio](https://asad-pasha-portfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/asad-pasha-chaudhry-541899335/)
+- [HPS Lahore](https://hpslahore.com)
